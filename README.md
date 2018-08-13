@@ -1,1 +1,1 @@
-# CG-lab
+# Computer Graphics Lab
